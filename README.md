@@ -1,1 +1,2 @@
-# jenny-pom.github.io
+# jenny-pom.github.io 
+ _config.yml
